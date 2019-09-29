@@ -1,3 +1,10 @@
 Kubernetes Microservices FleetMan Webapp
 -----------------------------------------
 https://github.com/DickChesterwood/k8s-fleetman.git
+
+Spring Boot Framework
+-----------------------
+https://github.com/springframeworkguru
+https://github.com/springframeworkguru/spring-boot-oracle-example.git
+
+https://github.com/slashcode-projects/CRUD-Operations-using-Spring-Boot-and-MVC/
